@@ -1,0 +1,37 @@
+/*Common CSS*/
+
+.full {
+    width: 100%;
+    font-family: sans-serif, serif;
+}
+
+.container {
+    
+}
+
+.jumbotron {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.social-icon {
+	margin-top: 15px;
+    margin-bottom: 5px;
+}
+.icon {
+	padding: 15px 15px 5px;
+}
+
+.social-icon a:hover {
+    text-decoration: none;
+}
+
+.body-taglines {
+    text-align: center;
+    font-weight: bold;
+}
+
+.find-section [type="search"], .find-section select {
+    margin-bottom: 15px;
+    width: 100% !important;
+}
